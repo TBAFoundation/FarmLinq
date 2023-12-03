@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\bin\Debug\net8.0\FarmLinq.exe
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\bin\Debug\net8.0\FarmLinq.deps.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\bin\Debug\net8.0\FarmLinq.runtimeconfig.json
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\bin\Debug\net8.0\FarmLinq.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\bin\Debug\net8.0\FarmLinq.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.AssemblyInfo.cs
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\refint\FarmLinq.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.pdb
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.genruntimeconfig.cache
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\ref\FarmLinq.dll

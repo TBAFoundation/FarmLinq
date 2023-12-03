@@ -1,0 +1,3 @@
+﻿using FarmLinq;
+
+FarmMenu.Run();
