@@ -12,3 +12,4 @@ C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\refint\FarmLinq.dll
 C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.pdb
 C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.genruntimeconfig.cache
 C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\ref\FarmLinq.dll
+C:\Users\DELL\Desktop\MGQSC#CLASS\FarmLinq\obj\Debug\net8.0\FarmLinq.sourcelink.json
